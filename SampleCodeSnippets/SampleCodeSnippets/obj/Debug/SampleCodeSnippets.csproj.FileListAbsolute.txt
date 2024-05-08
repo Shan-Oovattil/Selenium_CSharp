@@ -1,0 +1,7 @@
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\bin\Debug\SampleCodeSnippets.exe.config
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\bin\Debug\SampleCodeSnippets.exe
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\bin\Debug\SampleCodeSnippets.pdb
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\obj\Debug\SampleCodeSnippets.csproj.AssemblyReference.cache
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\obj\Debug\SampleCodeSnippets.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\obj\Debug\SampleCodeSnippets.exe
+C:\DotNet_Git_Uploads\NUnit Apps\SampleCodeSnippets\SampleCodeSnippets\obj\Debug\SampleCodeSnippets.pdb
